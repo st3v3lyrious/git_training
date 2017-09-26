@@ -1,4 +1,4 @@
-French Summary 
+French Summary
 ==============
 
 Dix petits nègres s'en furent dîner,
@@ -31,3 +31,6 @@ L'un d'eux devint vermeil
 Un petit nègre se retrouva tout esseulé,
 Se pendre il s'en est allé
 -n'en resta plus... du tout.
+
+English Summary
+===============
