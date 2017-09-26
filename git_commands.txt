@@ -2,14 +2,14 @@ Git basic commands
 ==================
 https://git-scm.com/docs
 
-- git-init : Create an empty Git repository or reinitialize an existing one
-- git-clone : Clone a repository into a new directory
-- git-status : Show the working tree status
-- git-add : Add file contents to the index
-- git-commit : Record changes to the repository
-- git-diff : Show changes between commits, commit and working tree, etc
-- git-branch : List, create, or delete branches
-- git-checkout : Switch branches or restore working tree files
-- git-fetch : Download objects and refs from another repository
-- git-pull : Fetch from and integrate with another repository or a local branch
-- git-push : Update remote refs along with associated objects
+- git init : Create an empty Git repository or reinitialize an existing one
+- git clone : Clone a repository into a new directory
+- git status : Show the working tree status
+- git add : Add file contents to the index
+- git commit : Record changes to the repository
+- git diff : Show changes between commits, commit and working tree, etc
+- git branch : List, create, or delete branches
+- git checkout : Switch branches or restore working tree files
+- git fetch : Download objects and refs from another repository
+- git pull : Fetch from and integrate with another repository or a local branch
+- git push : Update remote refs along with associated objects
