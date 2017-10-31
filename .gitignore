@@ -1,0 +1,8 @@
+# Files to ignore #
+###################
+
+bin/chromedriver
+node_modules/
+tests_output/
+./package-lock.json
+*.log
