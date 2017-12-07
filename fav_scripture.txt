@@ -1,5 +1,2 @@
 Share in this file, one scripture that has particularly blessed you or your favorite scripture and push it in a new branch using the git commands you have learned recently :)
-<<<<<<< HEAD
-=======
 explain briefly why you chose that scripture and the most important message to retain from it
->>>>>>> 2e4bea5db734eba5ef3ddf895630b09c670db5a5
