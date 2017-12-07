@@ -1,0 +1,1 @@
+Share in this file, one scripture that has particularly blessed you or your favorite scripture and push it in a new branch using the git commands you have learned recently :)
