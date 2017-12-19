@@ -1,2 +1,5 @@
 Share in this file, one scripture that has particularly blessed you or your favorite scripture and push it in a new branch using the git commands you have learned recently :)
 explain briefly why you chose that scripture and the most important message to retain from it
+The scripture that has particulary blessed me is Psalm 27:10
+It says " When my father and mother forsake me, Then the Lord will take care of me"
+It's so personal and has helped me through
