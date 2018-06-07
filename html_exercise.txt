@@ -1,0 +1,6 @@
+create a static HTML page that showcases the followings:
+- a table with an id attribute and a class attribute: the table should hold the record of a student's grades per courses
+- an unordered courses list
+- an ordered courses list
+- a radio button option to select the gender of a student (Male/Female)
+- a checklist displaying all the courses the student took during the semester
