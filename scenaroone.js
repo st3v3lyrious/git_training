@@ -1,5 +1,5 @@
 module.exports = {
-    'Google\'s Search Functionality' : function (browser) {
+    'xkcd test Functionality' : function (browser) {
       browser
         .url('https://xkcd.com')
         .waitForElementVisible('body', 1000)
@@ -11,7 +11,6 @@ module.exports = {
         this.assert.urlContains(response.value, '//*[@id="middleContainer"]/ul[1]/li[3]')
         .verify.elementPresent('//*[@id="middleContainer"]/ul[1]/li[3]') // this verifies that the image changes 
         })
-
         .end();
     }
   };
